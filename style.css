@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Exo 2', sans-serif;
+    background: url(img/bodybg.jpg);
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+nav ul {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+}
+
+nav.navbar {
+    /*background-color: #ccc !important; */
+    border-bottom: 3px #B8B8B8 solid;
+}
+
+li.nav-item {
+    padding: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+section h2 {
+    padding: 30px;
+    text-align: center;
+}
+
+section.first h1 {
+    margin-top: 90px;
+    margin-bottom: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    height: 40px;
+    width: 40px;
+}
+
+section.second {
+    padding: 30px;
+    margin-top: 130px;
+    background-color: #e3f2fd;
+    border-top: 3px solid #B8B8B8;
+    border-bottom: 3px solid #B8B8B8;
+}
+
+section.second p {
+    text-align: center;
+}
+
+section.second .card {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+section.third {
+    padding: 30px;
+    margin-top: 130px;
+    background-color: #e3f2fd;
+    border-top: 3px solid #B8B8B8;
+    border-bottom: 3px solid #B8B8B8;
+}
+
+section.third button {
+    text-align: center;
+}
+
+section.fourth {
+    padding: 30px;
+    margin-top: 130px;
+    background-color: #e3f2fd;
+    border-top: 3px solid #B8B8B8;
+    border-bottom: 3px solid #B8B8B8;
+}
+
+section.fifth {
+    padding: 30px;
+    margin-top: 130px;
+    background-color: #e3f2fd;
+    border-top: 3px solid #B8B8B8;
+    border-bottom: 3px solid #B8B8B8;
+}
+
+section.sixth {
+    padding: 30px;
+    margin-top: 130px;
+    background-color: #e3f2fd;
+    border-top: 3px solid #B8B8B8;
+    border-bottom: 3px solid #B8B8B8;
+}
+
+section.sixth h4 {
+    padding: 20px;
+}
+
+section.sixth .container {
+    background: url(img/bodybg.jpg);
+    border: 3px solid #B8B8B8;
+    text-align: center;
+}
+
+footer .footer {
+    padding: 30px;
+    margin-top: 130px;
+    background-color: #e3f2fd;
+    border-top: 3px solid #B8B8B8;
+    text-align: center;
+}
